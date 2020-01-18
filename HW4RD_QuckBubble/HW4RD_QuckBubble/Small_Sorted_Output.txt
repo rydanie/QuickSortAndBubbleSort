@@ -1,0 +1,36 @@
+The sorted list is :
+41
+145
+153
+169
+281
+292
+334
+358
+382
+391
+421
+436
+464
+467
+478
+491
+500
+604
+705
+716
+718
+724
+827
+827
+895
+902
+942
+961
+962
+995
+The bubble sort of the unsorted small set took 8 microseconds and 435 comparisons.
+The bubble sort of the unsorted small set took 0 microseconds and 29 comparisons.
+
+The quick sort of the unsorted small set took 10 microseconds and 174 comparisons.
+The quick sort of the unsorted small set took 23 microseconds and 470 comparisons.
